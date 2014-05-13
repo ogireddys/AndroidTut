@@ -1,4 +1,4 @@
-package com.niveditha.fragmentpractise.app;
+
 
 import android.app.Activity;
 import android.os.Bundle;

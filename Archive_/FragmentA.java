@@ -1,4 +1,4 @@
-package com.niveditha.fragmentpractise.app;
+
 
 import android.app.Fragment;
 import android.os.Bundle;
@@ -9,9 +9,6 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-/**
- * Created by Nivu on 5/11/14.
- */
 public class FragmentA extends Fragment implements  AdapterView.OnItemClickListener{
     private ListView list_a;
      communicator communicator_object;

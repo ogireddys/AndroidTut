@@ -1,4 +1,4 @@
-package com.niveditha.fragmentpractise.app;
+
 
 import android.app.Fragment;
 import android.content.res.Resources;
@@ -8,9 +8,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-/**
- * Created by Nivu on 5/11/14.
- */
 public class FragmentB extends Fragment {
     private TextView text_b;
     @Override
